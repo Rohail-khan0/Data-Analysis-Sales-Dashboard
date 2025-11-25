@@ -24,18 +24,12 @@ The solution is intended as a reporting/proof-of-concept dashboard (not a full B
 ├─ CONTRIBUTING.md
 └─ LICENSE
 
-yaml
-Copy code
+
 
 > **Screenshot preview**  
-> ![Sales Dashboard](/mnt/data/Sales_dashboard.jpg)
+> ![Sales Dashboard](https://github.com/Rohail-khan0/Data-Analysis-Sales-Dashboard/blob/main/Sales_dashboard.jpg)
 
 ---
 
-## Prerequisites
-
-- Microsoft Excel 2016 or later (recommended for slicers/advanced chart formatting)
-- Windows or macOS with Excel installed
-- Optional: basic familiarity with Excel tables, named ranges and macros
 
 ---
